@@ -82,7 +82,7 @@ Additionally, a simple annotation function "start_annotation_simple()"" is provi
 Login to your Map of Life account
 
 ```r
-mol_login("your.email@address"")
+mol_login("your.email@address")
 ```
 
 List your Map of Life datasets:
